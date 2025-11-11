@@ -86,7 +86,7 @@ const siddharth = {
 
 ## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=siddharth734&theme=dark&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=siddharth734&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophy" />
 
 </div>
 

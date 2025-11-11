@@ -86,7 +86,7 @@ const siddharth = {
 
 ## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=siddharth734&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=siddharth734&theme=github_dark_dimmed&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophy" />
 
 </div>
 
@@ -96,7 +96,7 @@ const siddharth = {
 
 ## 💭 Dev Wisdom
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark_dimmed" alt="Random Dev Quote"/>
 
 </div>
 
@@ -106,7 +106,7 @@ const siddharth = {
 
 ## 🔝 Top Contributed Repositories
 
-<img src="https://github-contributor-stats.vercel.app/api?username=siddharth734&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=siddharth734&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 
 </div>
 

@@ -114,25 +114,10 @@ const siddharth = {
 
 <div align="center">
 
-## 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-<img src="https://visitcount.itsvg.in/api?id=siddharth734&icon=5&color=6" alt="Visitor Count"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
 
-<!-- Crafted with 💜 by Siddharth -->
+<!-- Crafted with 🔥 by Siddharth -->
